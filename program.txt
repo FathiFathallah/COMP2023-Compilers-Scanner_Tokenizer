@@ -1,0 +1,36 @@
+
+
+
+
+	integer A_Funny33COMP2023dentifier := -1.546;
+
+float z101 := function setRule(a,b,-453, 23.54 ) ; ;
+
+
+if var xwz = qqa = 1.564
+	then:
+		write()
+	else 
+		read()
+fi
+
+ProGram P;
+
+1, 2, -975, 2.5, -562 -546.5 
+
+
+" THIS IS A STRING "
+
+
+## SHORT COMMENT float integer var bla bla ## float B ;
+
+## THIS IS LOOONNGG COMMENT ADFADADG31059360913!!#$%^^&&*$*%^*(%&(%&%&(*^)AGADGQECZBXVNqeeqt
+
+var a;
+
+if x>1 then y:=1;
+""
+
+
+
+
